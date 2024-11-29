@@ -1,7 +1,9 @@
 # instagram_ui_one
 
 A new Flutter project.
-
+| ![صفحه اصلی](https://github.com/javadHeidary/instagram_ui_clone/blob/main/images/sc2.png) |  
+| ![صفحه اصلی](https://github.com/javadHeidary/instagram_ui_clone/blob/main/images/sc3.png)   ![صفحه اصلی](https://github.com/javadHeidary/instagram_ui_clone/blob/main/images/sc5.png) |  
+|
 ## Getting Started
 
 This project is a starting point for a Flutter application.
